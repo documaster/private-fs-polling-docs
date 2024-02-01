@@ -1,0 +1,19 @@
+{
+  "section": "APM",
+  "document": {
+    "title": "nameoffile.zip",
+    "createdDate": "2024-01-24T14:15:22Z"
+  },
+  "entry": {
+    "title": "Title of the entry",
+    "createdDate": "2019-08-24T14:15:22Z",
+    "namespace": "entry namespace"
+  },
+  "classification_tags": {
+    "1 - ID": [
+      {
+        "title": "AIC 1"
+      }
+    ]
+  }
+}

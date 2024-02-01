@@ -1,0 +1,24 @@
+{
+  "section": "APM",
+  "document": {
+    "title": "A105Procasso_20231231_1339.zip",
+    "createdDate": "2024-01-24T14:15:22Z"
+  },
+  "entry": {
+    "title": "Procasso uttrekk",
+    "createdDate": "2019-08-24T14:15:22Z",
+    "namespace": "procasso namespace"
+  },
+  "classification_tags": {
+    "1 - ID": [
+      {
+        "title": "AIC 1"
+      }
+    ],
+    "2 - Variant": [
+      {
+        "title": "N5-uttrekk"
+      }
+    ]
+  }
+}
